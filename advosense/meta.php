@@ -5,19 +5,19 @@
 <!-- Google / Search Engine Tags -->
 <meta itemprop="name"content="Advosense | CTO | Berlin">
 <meta itemprop="description" content="Advosense | CTO | Berlin">
-<meta itemprop="image" content="../images/talent-exposed-banner.png">
+<meta itemprop="image" content="../images/jobs-exposed-banner.png">
 
 <!-- Facebook Meta Tags -->
 <meta property="og:url" content="https://jobs.aravinth.info">
 <meta property="og:type" content="website">
 <meta property="og:title"content="Advosense | CTO | Berlin">
 <meta property="og:description" content="Advosense | CTO | Berlin">
-<meta property="og:image" content="../images/talent-exposed-banner.png">
+<meta property="og:image" content="../images/jobs-exposed-banner.png">
 
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title"content="Advosense | CTO | Berlin">
 <meta name="twitter:description" content="Advosense | CTO | Berlin">
-<meta name="twitter:image" content="../images/talent-exposed-banner.png">
+<meta name="twitter:image" content="../images/jobs-exposed-banner.png">
 
 <!-- Meta Tags Generated via http://heymeta.com -->
